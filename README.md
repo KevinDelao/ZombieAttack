@@ -46,6 +46,7 @@ to play the game.
 <br>
  <img src="images/dying_after_step.jpg" width="600"/>
  
+### Hiding the World
 One feature that the game does have is that the user has the option to hide the game by pushing 'h' to essentially pause the game. From there the user can push enter to come back to the game again.
 
  <br>
