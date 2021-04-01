@@ -55,6 +55,5 @@ One feature that the game does have is that the user has the option to hide the 
 
 
 ## Setup
-To run this project properly open visual code and select find a solution and select BoulderBlast.sln in the folder. Once started up you will need to change the main.cpp and change the file path for Assets
-and make it to wherever the path for Assets says for you. After this simply run the project and the game should load up.
+To run this project simply run the project and the UI will show up.
 
